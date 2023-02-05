@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/skyflict/ParfumMagazine.git/static/css/main.da5fd474.css",
+    "main.js": "/skyflict/ParfumMagazine.git/static/js/main.2caa3ffa.js",
+    "index.html": "/skyflict/ParfumMagazine.git/index.html",
+    "main.da5fd474.css.map": "/skyflict/ParfumMagazine.git/static/css/main.da5fd474.css.map",
+    "main.2caa3ffa.js.map": "/skyflict/ParfumMagazine.git/static/js/main.2caa3ffa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da5fd474.css",
+    "static/js/main.2caa3ffa.js"
+  ]
+}
